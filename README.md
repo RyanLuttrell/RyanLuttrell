@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-I run **[Outside The Box](https://outsidethebox.dev)**, a digital development agency in Calgary where we take ideas from napkin sketch to launched product. With 10+ years in software engineering—including time as an Engineering Manager building billing systems serving 40,000+ clients—I've seen what separates ideas that ship from ones that don't.
+I run **[Outside The Box](https://outsidethebox.dev)**, a digital development agency in Calgary where we take ideas from napkin sketch to launched product. With 6+ years in software engineering—including time as an Engineering Manager building billing systems serving 40,000+ clients—I've seen what separates ideas that ship from ones that don't.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanluttrell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=a9b1d6&langs_count=6" width="320" />
 
