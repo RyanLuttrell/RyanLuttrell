@@ -25,7 +25,7 @@ I run **[Outside The Box](https://outsidethebox.dev)**, a digital development ag
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanluttrell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=a9b1d6&langs_count=6" width="320" />
 
 - 🚀 &nbsp;Founder of **[Outside The Box](https://outsidethebox.dev)**
-- 🏌️ &nbsp;Building **[LEMON Golf](https://lemongolf.com)** — all-in-one golf course management
+- 🏌️ &nbsp;Building **[LEMON Golf](https://golfwithlemon.com)** — all-in-one golf course management
 - 💼 &nbsp;Previously Engineering Manager II @ 7shifts
 - 📍 &nbsp;Based in Calgary, Canada
 - 🏃 &nbsp;Training for a **105km ultramarathon**
@@ -93,7 +93,7 @@ I run **[Outside The Box](https://outsidethebox.dev)**, a digital development ag
 </div>
 
 <div align="center">
-  <a href="https://lemongolf.com">
+  <a href="https://golfwithlemon.com">
     <img src="https://img.shields.io/badge/🏌️_LEMON_Golf-Currently_Building-22c55e?style=for-the-badge" />
   </a>
 </div>
