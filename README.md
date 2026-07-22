@@ -30,7 +30,7 @@ The pattern: pick an industry I know from the inside, sit with the operators, an
 
 ## How I build
 
-TypeScript end to end. **Next.js + React** up front, **Node and Postgres/Supabase** behind it, **Turborepo** monorepos, shipped on **Vercel**. Increasingly AI-native: agents, the Vercel AI SDK, and local inference.
+TypeScript end to end. **Next.js + React** up front, **Node and Convex** behind it, **Turborepo** monorepos, shipped on **Vercel**. Increasingly AI-native: agents, the Vercel AI SDK, and local inference.
 
 ## GitHub at a glance
 
