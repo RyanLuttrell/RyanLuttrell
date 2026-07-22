@@ -36,27 +36,25 @@ TypeScript end to end. **Next.js + React** up front, **Node and Postgres/Supabas
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-light.svg">
-    <img height="185" alt="GitHub stats" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-light.svg?v=2">
+    <img height="185" alt="GitHub stats" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg?v=2">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-light.svg">
-    <img height="185" alt="Most used languages" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-light.svg?v=2">
+    <img height="185" alt="Most used languages" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg?v=2">
   </picture>
-</div>
 
-## Say hello
+  <br/>
 
-Building something and need help getting it across the finish line? I'm always happy to chat — [LinkedIn](https://www.linkedin.com/in/ryan-luttrell/) or [hello@ryanluttrell.ca](mailto:hello@ryanluttrell.ca).
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/github-snake.svg">
     <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/github-snake.svg">
   </picture>
 </div>
+
+## Say hello
+
+Building something and need help getting it across the finish line? I'm always happy to chat — [LinkedIn](https://www.linkedin.com/in/ryan-luttrell/) or [hello@ryanluttrell.ca](mailto:hello@ryanluttrell.ca).
