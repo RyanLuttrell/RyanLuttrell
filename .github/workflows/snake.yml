@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -16,6 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        run: node scripts/generate-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: dist
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,7 +33,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVGs to output branch
+      - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

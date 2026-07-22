@@ -19,12 +19,12 @@ Founder & engineer in Calgary, Canada 🇨🇦. I build vertical SaaS for the bu
 
 ## What I'm building
 
-|  |  |
+| <img width="180" height="1" alt=""> |  |
 | --- | --- |
-| ⛪ **SundayHQ** | Operations for churches in their first three years: online giving with CRA & 501(c)(3)-compliant receipting, kids check-in with security codes. |
-| ☕ **Droptime** | Everything a coffee roastery needs after the drop. A free, open-source roast logger (curves, rate-of-rise, first-crack markers) with cloud sync, comparison, and AI readouts on top. |
-| 🏔️ **Basecamp HQ** | Motel management with the tape chart operators already know — except double-booking is impossible, and AI answers guest texts with your rules and real availability. |
-| 📦 **[Outside The Box](https://outsidethebox.dev)** | The studio behind it all — AI-native growth engineering, taking client ideas from napkin sketch to shipped product. |
+| ⛪ **[SundayHQ](https://www.trysundayhq.com)** | Operations for churches in their first three years: online giving with CRA & 501(c)(3)-compliant receipting, kids check-in with security codes. |
+| ☕ **[Droptime](https://www.trydroptime.com)** | Everything a coffee roastery needs after the drop. A free, open-source roast logger (curves, rate-of-rise, first-crack markers) with cloud sync, comparison, and AI readouts on top. |
+| 🏔️ **[Basecamp&nbsp;HQ](https://www.trybasecamphq.com)** | Motel management with the tape chart operators already know — except double-booking is impossible, and AI answers guest texts with your rules and real availability. |
+| 📦 **[Outside&nbsp;The&nbsp;Box](https://outsidethebox.dev)** | The studio behind it all — AI-native growth engineering, taking client ideas from napkin sketch to shipped product. |
 
 The pattern: pick an industry I know from the inside, sit with the operators, and build the tool they'd have built themselves if they wrote TypeScript.
 
@@ -36,18 +36,16 @@ TypeScript end to end. **Next.js + React** up front, **Node and Postgres/Supabas
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLuttrell&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=818cf8&text_color=9198a1&ring_color=6366f1">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RyanLuttrell&show_icons=true&hide_border=true&bg_color=00000000&title_color=4f46e5&icon_color=4f46e5&text_color=57606a&ring_color=6366f1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-light.svg">
+    <img height="185" alt="GitHub stats" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/stats-dark.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLuttrell&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=9198a1&langs_count=6">
-    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLuttrell&layout=compact&hide_border=true&bg_color=00000000&title_color=4f46e5&text_color=57606a&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-light.svg">
+    <img height="185" alt="Most used languages" src="https://raw.githubusercontent.com/RyanLuttrell/RyanLuttrell/output/langs-dark.svg">
   </picture>
 </div>
-
-## Off the clock
-
-Training for a **105 km ultramarathon** at 40–70 km a week. Ultrarunning and shipping products are the same sport: keep showing up when progress feels invisible.
 
 ## Say hello
 
