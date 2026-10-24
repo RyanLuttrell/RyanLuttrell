@@ -1,0 +1,51 @@
+<svg width="460" height="210" viewBox="0 0 460 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bar { transform: scaleX(0); transform-origin: 24px 0; animation: grow 0.9s 0.15s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    .row { opacity: 0; animation: fadein 0.6s ease-out forwards; }
+    @keyframes fadein { to { opacity: 1; } }
+  </style>
+  <defs>
+    <clipPath id="pill"><rect x="24" y="60" width="412" height="10" rx="5"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="459" height="209" rx="10" stroke="#30363d"/>
+  <text x="24" y="42" style="font:600 18px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#818cf8">Most used languages</text>
+  <g class="bar" clip-path="url(#pill)">
+    <rect x="24.0" y="60" width="138.0" height="10" fill="#3178c6"><title>TypeScript</title></rect>
+    <rect x="162.0" y="60" width="114.1" height="10" fill="#f1e05a"><title>JavaScript</title></rect>
+    <rect x="276.1" y="60" width="76.4" height="10" fill="#663399"><title>CSS</title></rect>
+    <rect x="352.5" y="60" width="49.7" height="10" fill="#e34c26"><title>HTML</title></rect>
+    <rect x="402.2" y="60" width="22.5" height="10" fill="#F05138"><title>Swift</title></rect>
+    <rect x="424.8" y="60" width="11.2" height="10" fill="#89e051"><title>Shell</title></rect>
+  </g>
+  <g class="row" style="animation-delay:0.50s">
+    <circle cx="29" cy="98" r="5" fill="#3178c6"/>
+    <text x="42" y="102" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">TypeScript</text>
+    <text x="122" y="102" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">33.5%</text>
+  </g>
+  <g class="row" style="animation-delay:0.60s">
+    <circle cx="249" cy="98" r="5" fill="#f1e05a"/>
+    <text x="262" y="102" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">JavaScript</text>
+    <text x="342" y="102" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">27.7%</text>
+  </g>
+  <g class="row" style="animation-delay:0.70s">
+    <circle cx="29" cy="126" r="5" fill="#663399"/>
+    <text x="42" y="130" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">CSS</text>
+    <text x="73" y="130" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">18.6%</text>
+  </g>
+  <g class="row" style="animation-delay:0.80s">
+    <circle cx="249" cy="126" r="5" fill="#e34c26"/>
+    <text x="262" y="130" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">HTML</text>
+    <text x="300" y="130" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">12.1%</text>
+  </g>
+  <g class="row" style="animation-delay:0.90s">
+    <circle cx="29" cy="154" r="5" fill="#F05138"/>
+    <text x="42" y="158" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">Swift</text>
+    <text x="87" y="158" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">5.5%</text>
+  </g>
+  <g class="row" style="animation-delay:1.00s">
+    <circle cx="249" cy="154" r="5" fill="#89e051"/>
+    <text x="262" y="158" style="font:400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6edf3">Shell</text>
+    <text x="307" y="158" style="font:400 12px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" fill="#9198a1">2.7%</text>
+  </g>
+</svg>
